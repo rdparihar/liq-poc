@@ -9,7 +9,5 @@
     
     <!-- <includeAll path="db"/> -->
     <include file="changelog/release-1.0.0.xml" />
-    <include file="changelog/release-1.0.1.xml" />
-
-
+ 
 </databaseChangeLog>
